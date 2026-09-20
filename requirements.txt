@@ -1,5 +1,7 @@
 streamlit
 
+setuptools<82
+
 # Utilities
 numpy
 pandas
