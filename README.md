@@ -32,7 +32,7 @@ Traditional attendance systems require time-consuming manual work and can lead t
 
 Step 1: Clone the Repository
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/RaviPrajapati012/snapclass-attendance-system.git
 
 Step 2: Navigate to the Project Folder
 
@@ -72,7 +72,7 @@ Never upload API secrets, passwords, or private keys to GitHub.
 
 Ravi Prajapati
 
-GitHub: "Visit My GitHub" (https://github.com/)
+GitHub: "Visit My GitHub" (github.com/RaviPrajapati012)
 
 ⭐ Support
 
